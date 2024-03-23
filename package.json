@@ -1,0 +1,52 @@
+{
+  "name": "culpaexcepturi",
+  "version": "1.11.0",
+  "description": "Non-fungible token standard implementation for the Ethereum blockchain.",
+  "author": "GailJones",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertoHackett/culpaexcepturi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GilbertoHackett/culpaexcepturi.git/issues"
+  },
+  "homepage": "https://github.com/GilbertoHackett/culpaexcepturi.git",
+  "keywords": [
+    "ethereum",
+    "est",
+    "iure",
+    "expedita",
+    "contracts",
+    "reiciendis",
+    "smart-contract",
+    "voluptas",
+    "token",
+    "quia",
+    "nft",
+    "nfts",
+    "non-fungible",
+    "eligendi",
+    "eip",
+    "erc",
+    "sunt",
+    "et",
+    "culpa",
+    "non"
+  ],
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "2.0.2",
+    "@nomiclabs/hardhat-waffle": "2.0.1",
+    "chai": "4.3.4",
+    "ethereum-waffle": "3.4.0",
+    "ethers": "5.4.6",
+    "hardhat": "2.6.4",
+    "hardhat-abi-exporter": "2.3.0",
+    "solhint": "3.3.6",
+    "solidity-coverage": "0.7.17",
+    "ts-node": "10.2.1"
+  },
+  "dependencies": {
+    "sedsunt": "^1.0.0"
+  }
+}
